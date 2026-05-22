@@ -25,6 +25,13 @@ Este reporte presenta el seguimiento de la estrategia “Despliegue Territorial�
 
 A través de Power BI, se consolidó la información del trabajo realizado por especialistas tecnológicos a nivel nacional, permitiendo visualizar el avance por institución educativa, especialista y cumplimiento de metas. El dashboard facilita el monitoreo de resultados y brinda información clave para la toma de decisiones en la gestión educativa.
 
-![Proyecto 01 - Página 1](https://github.com/jhey2390/PowerBI-Portfolio/blob/d530cf529538051a8c8390124f84ac4672db6883/proy-01.gif)
+![Proyecto 01](https://github.com/jhey2390/PowerBI-Portfolio/blob/d530cf529538051a8c8390124f84ac4672db6883/proy-01.gif)
 
+---
+### Proyecto Observatorio de Analítica de Perú Compras 2025
 
+Este reporte permite visualizar y analizar las compras públicas realizadas a nivel nacional a través del Catálogo Electrónico de Acuerdos Marco (CAEM) de la Central de Compras Públicas del Perú.
+
+Mediante Power BI, se consolidaron órdenes de compra emitidas por entidades del Estado peruano, facilitando el análisis de precios, cantidades, tipos de bienes, catálogos y patrones de adquisición. El dashboard contribuye al seguimiento de la comercialización de bienes y a la identificación de posibles comportamientos atípicos en los procesos de compra pública a través de los CAEM.
+
+![Proyecto 02](https://github.com/jhey2390/PowerBI-Portfolio/blob/7164a15880a2119e15e5c769fe0d6e5d0afd1e7e/proy-02%20(1).gif)
