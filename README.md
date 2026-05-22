@@ -35,3 +35,12 @@ Este reporte permite visualizar y analizar las compras públicas realizadas a ni
 Mediante Power BI, se consolidaron órdenes de compra emitidas por entidades del Estado peruano, facilitando el análisis de precios, cantidades, tipos de bienes, catálogos y patrones de adquisición. El dashboard contribuye al seguimiento de la comercialización de bienes y a la identificación de posibles comportamientos atípicos en los procesos de compra pública a través de los CAEM.
 
 ![Proyecto 02](https://github.com/jhey2390/PowerBI-Portfolio/blob/7164a15880a2119e15e5c769fe0d6e5d0afd1e7e/proy-02%20(1).gif)
+
+---
+### Proyecto Inducciones de los Agentes Territoriales a Docentes y Directivos
+
+Este reporte presenta el seguimiento de las inducciones realizadas a nivel nacional para fortalecer las capacidades de docentes, especialistas y directivos en el uso de materiales educativos digitales.
+
+Mediante Power BI, se consolida información sobre las actividades desarrolladas, los participantes atendidos y las necesidades adicionales de capacitación identificadas, facilitando el monitoreo de las acciones formativas y la toma de decisiones.
+
+![Proyecto 03](https://github.com/jhey2390/PowerBI-Portfolio/blob/36f279452e54da7a9d250967a654deb048dc9cdf/proy-03%20(1).gif)
