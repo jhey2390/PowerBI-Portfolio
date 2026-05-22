@@ -24,3 +24,7 @@ Actualmente me desempeño como consultor en diversas entidades del Estado peruan
 Este reporte presenta el seguimiento de la estrategia “Despliegue Territorial”, implementada por el Estado peruano durante el año 2024 para actualizar y poner a disposición materiales educativos digitales dirigidos a estudiantes y docentes.
 
 A través de Power BI, se consolidó la información del trabajo realizado por especialistas tecnológicos a nivel nacional, permitiendo visualizar el avance por institución educativa, especialista y cumplimiento de metas. El dashboard facilita el monitoreo de resultados y brinda información clave para la toma de decisiones en la gestión educativa.
+
+![Proyecto 01 - Página 1](https://github.com/jhey2390/PowerBI-Portfolio/blob/d530cf529538051a8c8390124f84ac4672db6883/proy-01.gif)
+
+
