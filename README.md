@@ -62,3 +62,15 @@ Este reporte analiza el uso de las cuentas académicas otorgadas por el Estado p
 Mediante Power BI, se consolida información sobre el uso de las cuentas y de los principales aplicativos de Google Workspace for Education, como Google Classroom y Google Meet, facilitando el seguimiento de la adopción de herramientas digitales en el sistema educativo.
 
 ![Proyecto_05](https://github.com/jhey2390/PowerBI-Portfolio/blob/31da2d0a0bc762b3e2d45941fa0284e29e59c939/proy-05.gif)
+
+# Contacto
+
+Si tienes alguna consulta, comentario o propuesta de colaboración, puedes contactarme a través de mi correo personal:
+
+📧 jheynnerc@gmail.com
+
+# Licencia y uso de la información
+
+Los dashboards presentados en este portafolio fueron desarrollados para organizaciones y necesidades específicas. Por tal motivo, no es posible publicar los archivos originales de Power BI, las bases de datos ni otros recursos internos asociados a cada proyecto.
+
+Este repositorio tiene únicamente fines demostrativos y profesionales. Se comparten capturas, vistas referenciales y una breve descripción de cada solución desarrollada, con el objetivo de mostrar el enfoque analítico, el diseño visual y el valor generado a partir del uso de Power BI.
