@@ -44,3 +44,21 @@ Este reporte presenta el seguimiento de las inducciones realizadas a nivel nacio
 Mediante Power BI, se consolida información sobre las actividades desarrolladas, los participantes atendidos y las necesidades adicionales de capacitación identificadas, facilitando el monitoreo de las acciones formativas y la toma de decisiones.
 
 ![Proyecto 03](https://github.com/jhey2390/PowerBI-Portfolio/blob/36f279452e54da7a9d250967a654deb048dc9cdf/proy-03%20(1).gif)
+
+---
+### Proyecto Parque Tecnológico de las II.EE. a nivel nacional
+
+Este reporte consolida información sobre las existencias tecnológicas de las instituciones educativas a nivel nacional, utilizando datos del Censo Educativo realizado anualmente por el Ministerio de Educación del Perú.
+
+A través de Power BI, se integra información del periodo 2018–2022, facilitando el análisis de la disponibilidad de recursos tecnológicos en las instituciones educativas. El dashboard busca apoyar a los especialistas del Ministerio en la toma de decisiones y en el diseño de estrategias que fortalezcan la labor docente y el aprendizaje de los estudiantes.
+
+![Proyecto 04](https://github.com/jhey2390/PowerBI-Portfolio/blob/31da2d0a0bc762b3e2d45941fa0284e29e59c939/proy-04.gif)
+
+---
+### Proyecto Uso de las Cuentas de Google
+
+Este reporte analiza el uso de las cuentas académicas otorgadas por el Estado peruano, en convenio con Google, durante el periodo de educación remota (2022). La iniciativa permitió habilitar más de 5 millones de cuentas para estudiantes y docentes a nivel nacional.
+
+Mediante Power BI, se consolida información sobre el uso de las cuentas y de los principales aplicativos de Google Workspace for Education, como Google Classroom y Google Meet, facilitando el seguimiento de la adopción de herramientas digitales en el sistema educativo.
+
+![Proyecto_05](https://github.com/jhey2390/PowerBI-Portfolio/blob/31da2d0a0bc762b3e2d45941fa0284e29e59c939/proy-05.gif)
